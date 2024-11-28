@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 //<-----------------------------------------------⭐To display the text from left to right----------------------------------------------->
-
+//github test
 /*
 void main(){
   //to control the flow of the data/text
